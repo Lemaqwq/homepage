@@ -1,6 +1,6 @@
 ---
 title:          "Data Augmentation of Multi-turn Psychotherapy Dialogue via Knowledge-driven Progressive Thought Prompting"
-date:           2024-05-12 00:01:00 +0800
+date:           2024-06-24 00:01:00 +0800
 selected:       true
 pub:            "Preprint"
 # pub_pre:        "Submitted to "
