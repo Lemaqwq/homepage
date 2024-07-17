@@ -3,14 +3,14 @@ secondary_name: ""
 navbar_name: "Liheng Chen"
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/HKU.jpg" alt="University of Hong Kong" class="inline-badge"/></span> BEng(CS), University of Hong Kong (2025)'
+  - '<span class="no-break"><img src="assets/images/badges/HKU.png" alt="University of Hong Kong" class="inline-badge"/></span> BEng(CS), University of Hong Kong (2025)'
 
 email: "clh648@connect.hku.hk"
 # cv_link: link-to-your-cv-file
 gscholar: MX0S_1IAAAAJ
 github: Lemaqwq
 twitter: lhchensimon
-# wechat_qrcode: assets/images/etc/wechat.jpg
+# wechat_qrcode: assets/images/etc/wechat.png
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
 linkedin: simonlhchen
@@ -19,19 +19,27 @@ orcid: 0009-0008-2995-1105
 short_bio: >-
   I am an undergraduate student researcher from the University of Hong Kong (HKU). My research interests include Parameter-Efficient Fine-Tuning (PEFT) and conditional non-autoregressive text generation.
 
-portrait_url: assets/images/photos/avatar.jpg
+portrait_url: assets/images/photos/avatar.png
 portrait_caption: >-
   Photo taken at Del Valle Regional Park East Ridge Loop while hiking with my mentor Gloria Yu.
 
 education:
 - name: University of Hong Kong
-  logo: assets/images/badges/HKU.jpg
+  logo: assets/images/badges/HKU.png
   position: Bachelor of Engineering (Computer Science)
   date: Sep. 2021 - Jul. 2025
+- name: University of California
+  logo: assets/images/badges/UCB.png
+  position: Visiting Student
+  date: Jan. 2024 - May. 2024
+- name: Fudan University
+  logo: assets/images/badges/FUDAN.png
+  position: School of Economics (SOE) Winter School
+  date: Dec. 2022 - Jan. 2023
 
 experience:
 - name: Univeristy of Hong Kong
-  logo: assets/images/badges/HKU.jpg
+  logo: assets/images/badges/HKU.png
   position: Research Assistant
   date: Jul. 2021 - Feb. 2024
 
