@@ -1,6 +1,6 @@
 ---
 title:          "Diffusion of Thought: Chain-of-Thought Reasoning in Diffusion Language Models"
-date:           2024-05-12 00:01:00 +0800
+date:           2024-07-15 00:01:00 +0800
 selected:       true
 pub:            "Preprint"
 # pub_pre:        "Submitted to "
