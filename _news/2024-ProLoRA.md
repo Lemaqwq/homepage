@@ -1,4 +1,4 @@
 ---
-title: 🔥🔥🔥 ProLoRA is accepted by ACL 2024 (main conference)!
-date: 2022-05-12 00:01:00 +0800
+title: 🔥🔥🔥 <strong>ProLoRA</strong> is accepted by <a href="https://2024.aclweb.org/" target="_blank">ACL 2024</a> (main conference)!
+date: 2022-05-16 00:01:00 +0800
 ---
