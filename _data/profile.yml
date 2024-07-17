@@ -29,11 +29,11 @@ education:
   position: Bachelor of Engineering (Computer Science)
   date: Sep. 2021 - Jul. 2025
 
-# experience:
-# - name: Peking University
-#   logo: assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: Univeristy of Hong Kong
+  logo: assets/images/badges/HKU.jpg
+  position: Research Assistant
+  date: Jul. 2021 - Feb. 2024
 
 
 awards:
@@ -41,5 +41,7 @@ awards:
   date: 2024
 - name: HKU Reaching Out Award (ROA) Exchange Scholarship
   date: 2024
+- name: Dean's Honors List, Department of Computer Science, HKU
+  date: 2022
 - name: China Soong Ching Ling Foundation Zhiyuan Bursary Recipient
   date: 2021
