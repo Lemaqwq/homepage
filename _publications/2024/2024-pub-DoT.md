@@ -5,7 +5,7 @@ selected:       true
 pub:            "Annual Conference on Neural Information Processing System"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-danger">NeurIPS 2024</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">NeurIPS 2024</span>'
 pub_date:       "2024"
 
 abstract: >-
