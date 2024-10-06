@@ -2,7 +2,7 @@
 title:          "MoS: Unleashing Parameter Efficiency of Low-Rank Adaptation with Mixture of Shards"
 date:           2024-10-2 00:01:00 +0800
 selected:       true
-pub:            "Arxiv"
+pub:            "Preprint"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-danger">Arxiv</span>'
