@@ -27,3 +27,7 @@ num_selected: 10
     title='<i class="fas fa-star"></i> Selected Publications'
 %}
 {% endif %}
+
+{% if site.data.display.homepage.show_visiting_stat %}
+{% include widgets/visiting_card.html%}
+{% endif %}
