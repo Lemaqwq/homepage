@@ -1,5 +1,5 @@
 ---
-title:          "How Far Can Cantonese NLP Go? Benchmarking Cantonese Capabilities of Large Language Models"
+title:          "How Well Do LLMs Handle Cantonese? Benchmarking Cantonese Capabilities of Large Language Models"
 date:           2024-08-16 00:01:00 +0800
 selected:       true
 pub:            "Preprint"
@@ -13,8 +13,8 @@ abstract: >-
 # cover:          assets/images/covers/HiddenKey.jpg
 authors:
   - Jiyue Jiang
-  - Liheng Chen
   - Pengan Chen
+  - Liheng Chen
   - Sheng Wang
   - Qinghang Bao
   - Lingpeng Kong
