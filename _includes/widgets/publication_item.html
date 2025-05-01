@@ -51,9 +51,13 @@
                 <a target="_blank" href="{{ link[1] }}">[{{ link[0] }}]</a>
                 {% endif %}
                 {% endfor %}
+                
+                {% for badge in item.badges %}
+                <img alt="GitHub Repo stars" src="{{ badge[1] }}">
+                {% endfor %}
             </p>
 
-            <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/HKUNLP/diffusion-of-thoughts">
+            
 
         </div>
     </div>
