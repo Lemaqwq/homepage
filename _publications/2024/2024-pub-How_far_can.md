@@ -25,6 +25,6 @@ authors:
 
 links:
   Paper: https://arxiv.org/abs/2408.16756
-# Code: https://github.com/HKUNLP/diffusion-of-thoughts
+  Code: https://github.com/jiangjyjy/Yue-Benchmark
 # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
