@@ -34,5 +34,8 @@ links:
   Website: https://osatlas.github.io
   Paper: https://arxiv.org/abs/2410.23218v1
   Code: https://github.com/OS-Copilot/OS-Atlas
+
+badges:
+  url: https://img.shields.io/github/stars/OS-Copilot/OS-Atlas
 # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---

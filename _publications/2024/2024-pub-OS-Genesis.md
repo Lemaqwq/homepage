@@ -36,5 +36,8 @@ links:
   Code: https://github.com/OS-Copilot/OS-Genesis
   Checkpoints: https://huggingface.co/collections/OS-Copilot/os-genesis-6768d4b6fffc431dbf624c2d
   Data: https://huggingface.co/collections/OS-Copilot/os-genesis-6768d4b6fffc431dbf624c2d
+
+badges:
+  url: https://img.shields.io/github/stars/OS-Copilot/OS-Genesis
 # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
