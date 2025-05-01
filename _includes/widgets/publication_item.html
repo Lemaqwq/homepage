@@ -23,6 +23,11 @@
                 {% endif %}
                 {% endfor %}
             </p>
+            {% for badge in item.badges %}
+            {% if badge[1].url %}
+            <img alt="GitHub Repo stars" src="{{ badge[1]['url'] }}">
+            {%- endif -%}
+            {% endfor %}
 
         </div>
     </div>
