@@ -3,7 +3,9 @@ secondary_name: ""
 navbar_name: "Liheng Chen"
 
 positions:
-- '<span class="no-break"><img src="assets/images/badges/HKU.png" alt="University of Hong Kong" class="inline-badge"/></span> BEng(CS), University of Hong Kong (2025)'
+- logo: assets/images/badges/HKU.png  # Logo is optional
+  name: BEng(CS) University of Hong Kong (2025)
+# - '<span class="no-break"><img src="assets/images/badges/HKU.png" alt="University of Hong Kong" class="inline-badge"/></span> BEng(CS), University of Hong Kong (2025)'
 
 email: "clh648@connect.hku.hk"
 # cv_link: link-to-your-cv-file
