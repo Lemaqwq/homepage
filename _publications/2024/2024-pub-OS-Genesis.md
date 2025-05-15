@@ -1,11 +1,11 @@
 ---
 title:          "OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis"
-date:           2024-12-27 00:01:00 +0800
+date:           2025-05-15 00:01:00 +0800
 selected:       true
 pub:            "Preprint"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-danger">Arxiv</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">ACL 2025</span>'
 pub_date:       "2024"
 
 abstract: >-
