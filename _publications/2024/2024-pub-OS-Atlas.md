@@ -1,6 +1,5 @@
 ---
 title:          "OS-ATLAS: A Foundation Action Model for Generalist GUI Agents"
-date:           2024-10-30 00:01:00 +0800
 selected:       true
 date:           2025-01-23 00:01:00 +0800
 selected:       true
