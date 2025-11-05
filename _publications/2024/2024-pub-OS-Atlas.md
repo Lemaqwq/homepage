@@ -2,7 +2,6 @@
 title:          "OS-ATLAS: A Foundation Action Model for Generalist GUI Agents"
 selected:       true
 date:           2025-01-23 00:01:00 +0800
-selected:       true
 pub:            "International Conference on Learning Representations"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

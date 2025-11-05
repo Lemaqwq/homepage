@@ -1,7 +1,7 @@
 ---
 title:          "How Well Do LLMs Handle Cantonese? Benchmarking Cantonese Capabilities of Large Language Models"
 date:           2024-08-16 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

@@ -1,7 +1,7 @@
 ---
 title:          "PRoLoRA: Partial Rotation Empowers More Parameter-Efficient LoRA"
 date:           2024-02-24 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "Annual Meeting of the Association for Computational Linguistics"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
