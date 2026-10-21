@@ -47,24 +47,23 @@
                             </ul>
                         </div>
                         {% endif %}
-                
-                        {% if site.data.profile.awards %}
-                        <div class="mx-2 my-1">
-                            <h6>🎊 Honors & Awards</h6>
-                            <ul class="list small pl-3 mb-1">
-                                {% for item in site.data.profile.awards %}
-                                <li>
-                                    <div class="d-flex">
-                                        <div>{{ item.name }}</div>
-                                        <div class="ml-auto mt-auto no-break"><em>{{ item.date }}</em></div>
-                                    </div>
-                                </li>
-                                {% endfor %}
-                            </ul>
-                        </div>
-                        {% endif %}
                     </div>
                 </div>
+                {% if site.data.profile.awards %}
+                <div class="mx-2 mt-2">
+                    <h6>🎊 Honors & Awards</h6>
+                    <ul class="list small pl-3 mb-1" style="column-count: 2; column-gap: 2rem;">
+                        {% for item in site.data.profile.awards %}
+                        <li style="break-inside: avoid;">
+                            <div class="d-flex">
+                                <div>{{ item.name }}</div>
+                                <div class="ml-auto mt-auto no-break"><em>{{ item.date }}</em></div>
+                            </div>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                {% endif %}
             </div>
         </div>
     </div>

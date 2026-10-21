@@ -34,18 +34,18 @@ education:
   logo: assets/images/badges/Oxford.png
   position: MSc in Advanced Computer Science (Artificial Intelligence)
   date: Oct. 2025 - Nov. 2026
-- name: University of Hong Kong
-  logo: assets/images/badges/HKU.png
-  position: BEng in Computer Science (First Class Honors)
-  date: Sep. 2021 - Jun. 2025
 - name: University of California, Berkeley
   logo: assets/images/badges/UCB.png
   position: Visiting Student
   date: Jan. 2024 - May. 2024
-- name: Fudan University
-  logo: assets/images/badges/Fudan-logo.png
-  position: School of Economics (SOE) Winter School
-  date: Dec. 2022 - Jan. 2023
+- name: University of Hong Kong
+  logo: assets/images/badges/HKU.png
+  position: BEng in Computer Science (First Class Honors)
+  date: Sep. 2021 - Jun. 2025
+# - name: Fudan University
+#   logo: assets/images/badges/Fudan-logo.png
+#   position: School of Economics (SOE) Winter School
+#   date: Dec. 2022 - Jan. 2023
 
 experience:
 - name: Eigent AI, London
